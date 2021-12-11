@@ -1,3 +1,2 @@
 # First-Contribution
-abcd
-Hello Hello
+First Open Source Contribution
